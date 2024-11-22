@@ -8,8 +8,8 @@ import (
 	"image/color"
 	"io"
 
-	"github.com/jdeng/goheif/heif"
-	"github.com/jdeng/goheif/libde265"
+	"github.com/oriolsr/goheif/heif"
+	"github.com/oriolsr/goheif/libde265"
 )
 
 // SafeEncoding uses more memory but seems to make
